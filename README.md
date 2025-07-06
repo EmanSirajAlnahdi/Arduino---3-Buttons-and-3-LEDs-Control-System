@@ -81,5 +81,5 @@ You can try the project online here:
 
 ---
 
- ## Author: Eman Alnahdiز
+ ## Author: Eman Alnahdi.
 

@@ -77,7 +77,7 @@ The delay(10); at the end is used to slightly reduce CPU usage.
 ##  Project Simulation (Tinkercad)
 
 You can try the project online here:  
-[🔌 Open Circuit in Tinkercad](https://www.tinkercad.com/things/8p3npzXqyf5/editel?returnTo=%2Fdashboard&sharecode=LOvpPSiPSGPG99b-QPpwyGpYYRiP3yF6LJ3nv2PXYIA)
+[Open Circuit in Tinkercad](https://www.tinkercad.com/things/8p3npzXqyf5/editel?returnTo=%2Fdashboard&sharecode=LOvpPSiPSGPG99b-QPpwyGpYYRiP3yF6LJ3nv2PXYIA)
 
 ---
 

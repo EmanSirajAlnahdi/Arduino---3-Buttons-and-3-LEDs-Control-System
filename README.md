@@ -26,6 +26,7 @@ This Arduino Uno project demonstrates how to use **3 digital push-buttons (input
 ---
 
 ##  Code
+```cpp
 
 void setup()
 {
@@ -58,7 +59,7 @@ void loop()
     digitalWrite(10, LOW);
   }
   delay(10); }
-
+```
   ##  How the Code Works
   The program checks the state of each button continuously.
 
